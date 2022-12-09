@@ -24,7 +24,7 @@
 
 
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
    
    
    
