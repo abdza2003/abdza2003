@@ -22,7 +22,7 @@
 <h3 align="left">💳 Github Profile Summary Card</h3>
 
 
-<div style = "display: flex; justify-content: center; align-items: center;">
+<div style = "display: flex; justify-content: center; align-items: center; background: tomato;">
  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" />
 </div> 
            
