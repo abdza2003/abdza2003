@@ -29,4 +29,4 @@
   <div class="column">
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdza2003&show_icons=true&locale=en" alt="abdza2003"  style="width:55%" /></p>
 
-</div>
+</div></div>
