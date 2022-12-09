@@ -25,7 +25,7 @@
            style="width:50%" /></p>
 
 <center>
-<p>&nbsp;<img  align = 'center' src="https://github-readme-stats.vercel.app/api?username=abdza2003&show_icons=true&locale=en" alt="abdza2003"  style="width:60%"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=abdza2003&show_icons=true&locale=en" alt="abdza2003"  style="width:60%"/></p>
 </center>
 
 
