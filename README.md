@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Abdulrahim Zaarour</h1>
 <h3 align="center">Applications Developer</h3>
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
+   
+
 
 <p align="left"> <a href="https://twitter.com/abdz2003a" target="blank"><img src="https://img.shields.io/twitter/follow/abdz2003a?logo=twitter&style=for-the-badge" alt="abdz2003a" /></a> </p>
 
@@ -23,8 +26,7 @@
 
 
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
-   
+
    <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
    
    
