@@ -22,10 +22,11 @@
 <h3 align="left">💳 Github Profile Summary Card</h3>
 
 
-<div style = "padding-left: 100; padding-right : 100; height: 100%; width : 100%;">
- <img align = "center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="padding-left: 100; padding-right : 100; display: flex; justify-content: center; align-items: center; background: tomato; height: 50%; width : 50%;"/>
-</div> 
-           
+
+<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
+   
+   <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="width : 50%;"/>
+   
    
    
 
