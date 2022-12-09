@@ -1,3 +1,4 @@
+<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Abdulrahim Zaarour</h1>
 <h3 align="center">Applications Developer</h3>
 
