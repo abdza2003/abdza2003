@@ -23,7 +23,7 @@
 
 
 <div style = "display: flex; justify-content: center; align-items: center; background: tomato; height: 100%; width : 100%;">
- <img align = "center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="display: flex; justify-content: center; align-items: center; background: tomato; height: 100%; width : 100%;"/>
+ <img align = "center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=abdza2003&show_icons=true&locale=en&layout=compact" alt="abdza2003" style="display: flex; justify-content: center; align-items: center; background: tomato; height: 50%; width : 50%;"/>
 </div> 
            
    
