@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdulrahimzaarour3@gmail.com**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/13Gq58VDO23v2yKQVeuruvnpCz5w_-qMH/view?usp=share_link**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1ITKFN3Zzx23aX5KIMAVQCmTmx4qCBZmG/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
