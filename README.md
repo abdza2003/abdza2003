@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdz2003a" target="blank"><img src="https://img.shields.io/twitter/follow/abdz2003a?logo=twitter&style=for-the-badge" alt="abdz2003a" /></a> </p>
 
-- 🌱 I'm currently learning **DApps**
+- 🌱 **Success begins with a step**
 
 - 📫 How to reach me **abdulrahimzaarour3@gmail.com**
 
