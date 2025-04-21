@@ -7,7 +7,7 @@
 
 - 🌱 **Success begins with a step**
 
-- 📫 How to reach me **abdulrahimzaarour3@gmail.com**
+- 📫 How to reach me **abdulrahim.zarour@gmail.com**
 
 <!--- 📄 Know about my experiences **[https://drive.google.com/file/d/1mFwV9vNup9d7ihRm6ctQFcHYtu0Wx0gX/view](https://drive.google.com/file/d/1sOHGskUYGnuPNk644vhZNVSHqgCFig1S/view?usp=sharing)**  -->
 
