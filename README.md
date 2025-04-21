@@ -1,6 +1,6 @@
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966](https://user-images.githubusercontent.com/86608368/206742361-34b9417d-de02-4ef0-a3d7-72866381c0fe.gif)
 
-<h1 align="center">Hi 👋, I'm Abdulrahim Zaarour</h1>
+<h1 align="center">Hi 👋, I'm Abdulrahim Zarour</h1>
 <h3 align="center">Applications Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/abdz2003a" target="blank"><img src="https://img.shields.io/twitter/follow/abdz2003a?logo=twitter&style=for-the-badge" alt="abdz2003a" /></a> </p>
